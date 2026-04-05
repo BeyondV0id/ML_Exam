@@ -1,0 +1,9 @@
+# Large datasets
+*.csv
+
+# Notebook runtime artifacts
+.ipynb_checkpoints/
+
+# OS/editor artifacts
+.DS_Store
+Thumbs.db
