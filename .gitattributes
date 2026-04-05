@@ -1,1 +1,2 @@
-*.csv filter=lfs diff=lfs merge=lfs -text
+movielens-dataset/ratings.csv filter=lfs diff=lfs merge=lfs -text
+credit-card-fraud-detection/credit_card_fraud.csv filter=lfs diff=lfs merge=lfs -text
