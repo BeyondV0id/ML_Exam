@@ -1,6 +1,3 @@
-# Large datasets
-*.csv
-
 # Notebook runtime artifacts
 .ipynb_checkpoints/
 
